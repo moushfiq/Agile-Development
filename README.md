@@ -3,5 +3,5 @@ The courses incorporates traditional agile methodologies with hypothesis driven 
 
 * Course 1: Agile meets Design Thinking
 * Course 2: Hypothesis Driven Development
-* Course 3: Hypothesis Driven Development
+* Course 3: Agile Analytics
 * Course 4: Managing Agile Team
